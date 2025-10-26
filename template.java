@@ -99,6 +99,10 @@ public class template {
         out.println();
     }
 
+    static void fillArray(int[] arr) throws IOException {
+        for (int i = 0; i < arr.length; i++) { arr[i] = nextInt(); }
+    }
+    
     static void fillArray(long[] arr) throws IOException {
         for (int i = 0; i < arr.length; i++) { arr[i] = nextLong(); }
     }
