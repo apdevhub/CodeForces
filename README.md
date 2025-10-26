@@ -32,3 +32,4 @@ Each solution is organized by **problem ID** and **name**, with quick links to t
 | 2065_B | Skibidus and Ohio | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2065/B_2065.java) |
 | 2069_A | Was there an Array? | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2069/A_2069.java) |
 | 2072_A | New World, New Me, New Array | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2072/A_2072.java) |
+| 2149_A | Be Positive | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2149/A_2149.java) |
