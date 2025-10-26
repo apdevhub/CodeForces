@@ -23,21 +23,12 @@ Each solution is organized by **problem ID** and **name**, with quick links to t
 | 🆔 Question ID | 📘 Problem Name | 🔗 Solution |
 |:--------------:|:----------------|:------------:|
 | 4_A | Watermelon | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/4/A_4.java) |
-
 | 71_A | Way Too Long Words | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/71/A_71.java) |
-
 | 281_A | Word Capitalization | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/281/A_281.java) |
-
 | 707_A | Brain's Photos | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/707/A_707.java) |
-
 | 1772_A | A+B? | [📄](https://github.com/apdevhub/Codeforces/blob/main/solutions/1772/A_1772.java) |
-
 | 1984_A | Strange Splitting | [📄](https://github.com/apdevhub/Codeforces/blob/main/solutions/1984/A_1772.java) |
-
 | 2065_A | Skibidus and Amog'u | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2065/A_2065.java) |
-
 | 2065_B | Skibidus and Ohio | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2065/B_2065.java) |
-
 | 2069_A | Was there an Array? | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2069/A_2069.java) |
-
 | 2072_A | New World, New Me, New Array | [📄](https://github.com/apdevhub/CodeForces/blob/main/solutions/2072/A_2072.java) |
