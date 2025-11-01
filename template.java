@@ -86,6 +86,10 @@ public class template {
         for (long val : list) out.print(val + " ");
         out.println();
     }
+    static void printList(int[] list) {
+        for (int val : list) out.print(val + " ");
+        out.println();
+    }
     static void printList(long[] list) {
         for (long val : list) out.print(val + " ");
         out.println();
