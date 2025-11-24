@@ -69,6 +69,16 @@ public class template {
         return true;
     }
 
+    static boolean isPalindrom(String str) {
+        int s = 0, e = str.length()-1;
+        while(s < e) {
+            if(str.charAt(s) != str.charAt(e)) return false;
+            s++;
+            e--;
+        }
+        return true;
+    }
+    
     // ---------- Combinatorics ----------
     static long nCr(int n, int r) {
         if (r > n) return 0;
